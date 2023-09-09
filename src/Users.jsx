@@ -11,8 +11,9 @@ export default function Users(){
     return (
         <div>
             <h3>Users : {user.length}</h3>
-
+            
         </div>
+        
     )
 }
 
